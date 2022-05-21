@@ -1,6 +1,6 @@
 # Introduction 
-azmisahin-$groupName-$typeName-$projectName-$productName-$languageName
-[com.azmisahin.$groupName.$typeName.$projectName.$productName.$languageName] Entry-level workspace for azmisahin.
+com-azmisahin-software-document-service-architecture-ddd-markdown-v1
+[domain-organization-group-type-project-name-product-language-version] Entry-level workspace for azmisahin.
 
 # Getting Started
 TO DO: Things to do when getting started on this project.
