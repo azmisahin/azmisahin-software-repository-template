@@ -35,3 +35,9 @@ In the project; principles and architectural examples of development, code submi
 
 - Welcome to us, to contribute See [How to Provide Storey](CONTRIBUTING.md)
 - Review the Participant Agreement [Code of Conduct](CODE_OF_CONDUCT.md).
+
+# License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png) ](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Proje Automation by [Azmi SAHIN](https://github.com/azmisahin/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
